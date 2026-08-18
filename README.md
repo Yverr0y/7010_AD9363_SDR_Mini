@@ -1,5 +1,7 @@
 # 7010_AD9363_SDR_Mini
 
+https://opensourcesdrlab.com/products/7010-ad9363-sdr-mini
+
 Function description of the device:
 1. On board downloader, users can perform bare metal program debugging, firmware burning, etc. through the JTAG port.
 2. The board supports FLASH boot mode and JTAG boot mode. When powered on, it defaults to FLASH boot mode and enters JTAG boot mode after pressing the BOOT-KEY button.
