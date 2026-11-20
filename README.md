@@ -2,18 +2,23 @@
 
 # 7010_AD9363_SDR_Mini
 
-Schematic, firmware and documentation for the **OpenSourceSDRLab 7010 AD9363 SDR Mini (with aluminium enclosure)**, a PlutoSDR-compatible software-defined radio with a Xilinx Zynq-7010 SoC and the Analog Devices AD9363 RF transceiver, with on-board JTAG/UART and FLASH or JTAG boot.
+Schematic, firmware and documentation for the **OpenSourceSDRLab 7010 AD9363 SDR Mini**, a PlutoSDR-compatible software-defined radio with a Xilinx Zynq-7010 SoC and the Analog Devices AD9363 RF transceiver, with on-board JTAG/UART and FLASH or JTAG boot.
+
+The board is sold in two versions: **with an aluminium enclosure** and **as a bare board without enclosure**. Both versions use the same board, the same schematic and the same factory firmware, so everything in this repository applies to both.
 
 <p align="center">
-  <img src="images/7010_AD9363_SDR_Mini-main.jpg" alt="7010 AD9363 SDR Mini in its enclosure" width="45%">
-  <img src="images/7010_AD9363_SDR_Mini-board.jpg" alt="7010 AD9363 SDR Mini board" width="45%">
+  <img src="images/7010_AD9363_SDR_Mini-main.jpg" alt="7010 AD9363 SDR Mini with aluminium enclosure" width="45%">
+  <img src="images/7010_AD9363_SDR_Mini-board.jpg" alt="7010 AD9363 SDR Mini bare board without enclosure" width="45%">
 </p>
 
-## Product link
+## Product links
 
-<https://opensourcesdrlab.com/products/7010-ad9363-sdr-mini>
+| Version | Product page |
+|---|---|
+| **With aluminium enclosure** | <https://opensourcesdrlab.com/products/7010-ad9363-sdr-mini> |
+| **Without enclosure (bare board)** | <https://opensourcesdrlab.com/products/7010-ad9363-sdr-mini-development-board-support-for-flash-and-jtag-boot-modes> |
 
-The same board is also sold the same board without the enclosure; its files are in the repository [7010_SDR_Mini](https://github.com/OpenSourceSDRLab/7010_SDR_Mini).
+> The former repository [7010_SDR_Mini](https://github.com/OpenSourceSDRLab/7010_SDR_Mini) (version without enclosure) has been merged into this repository and is archived.
 
 ## About the board
 
